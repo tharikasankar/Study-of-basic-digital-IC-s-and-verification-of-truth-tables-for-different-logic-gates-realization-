@@ -82,6 +82,7 @@ xnor(y7,a,b);
 endmodule
 
 OUTPUT:
+
 Logic symbol & Truthtable
 ![image](https://user-images.githubusercontent.com/119475507/214540411-b54dab1a-58ca-45e8-9a1b-a80233c341cf.png)
 
